@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #8b25a0;
+  --primary: #f4623a;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -1734,16 +1734,16 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #d699f9;
+  border-color: #f9ad99;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #ddb0fb;
+  background-color: #fbc0b0;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #b1b0fb;
+  background-color: #fbc0b0;
 }
 
 .table-secondary,
