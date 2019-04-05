@@ -2,11 +2,15 @@
 
 // Color overrides
 
+
 // Set a custom color
-$purple: #935ebe !default;
+$purple: #c680ff !default;
+$transparent-purple: #935ebe63;
+$nearly-black: #2c2c2c;
 
 // Set primary color to purple
 $primary: $purple !default;
+$secondary: $nearly-black !default;
 
 // Font overrides
 $font-family-sans-serif: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
